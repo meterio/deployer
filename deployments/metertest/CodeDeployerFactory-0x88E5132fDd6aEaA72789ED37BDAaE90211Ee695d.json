@@ -1,0 +1,9 @@
+{
+  "contract": "CodeDeployerFactory",
+  "address": "0x88E5132fDd6aEaA72789ED37BDAaE90211Ee695d",
+  "createdBy": "0x0205c2D862cA051010698b69b54278cbAf945C0b",
+  "createdAt": "2024-02-23T16:44:41-08:00",
+  "creationTx": "0x4ebe0d369a37aa7ed481927cc497af91930ac0d1f28d6709237513e866cae08b",
+  "constructorArguments": [],
+  "constructorArgumentsDefs": []
+}

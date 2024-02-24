@@ -1,0 +1,7 @@
+{
+  "rpc": "http://rpctest.meter.io",
+  "CodeDeployerFactory": [
+    "0x94b417F7C890E5EdD23745cF0666F34ED9f235eB",
+    "0x88E5132fDd6aEaA72789ED37BDAaE90211Ee695d"
+  ]
+}
